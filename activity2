@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>elements</title>
+</head>
+<body>
+    <h1>the elements of HTML</h1>
+    <h2>lesson number 2</h2>
+    <p>HTML elements are the building blocks of webpages, defining content and structure. They consist of a start tag, content,
+    and an end tag, acting like containers for text, images, and other components.</p>
+
+    
+</body>
+</html>
